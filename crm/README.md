@@ -21,7 +21,7 @@ Inside the customer page, you can make a new order, update the customer and filt
 
 * [Django](https://www.djangoproject.com/)
 * [Python](http://python.org)
-* [Bootstrap] (https://getbootstrap.com/)
+* [Bootstrap](https://getbootstrap.com/)
 
 # Future Work
 
